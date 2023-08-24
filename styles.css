@@ -55,7 +55,7 @@ body {
     align-items: center;
     gap: 0;
     width: 100%;
-    max-width: min-content;
+    max-width: 100px;
   }
 }
 
