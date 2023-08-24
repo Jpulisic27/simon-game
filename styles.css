@@ -54,7 +54,7 @@ body {
     align-items: center;
     gap: 0;
     width: 100%;
-    max-height: fit-content;
+    max-height: 150px;
   }
 }
 
